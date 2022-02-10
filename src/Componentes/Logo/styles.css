@@ -1,0 +1,11 @@
+.cont__img-header{
+    width: 50%;
+}
+.cont__img-header img{
+    width: 100%;
+}
+@media screen and (max-width:890px) {
+    .cont__img-header{
+        width: 80%;
+    }
+}

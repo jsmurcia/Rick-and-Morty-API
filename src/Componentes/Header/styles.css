@@ -1,0 +1,12 @@
+.heder__cont{
+    display: flex;
+    background-color: #5614B0;
+}
+
+@media screen and (max-width:890px) {
+    .heder__cont{
+        flex-direction: column;
+        align-items: center;
+    }
+
+}

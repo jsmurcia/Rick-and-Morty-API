@@ -1,0 +1,6 @@
+.cont__card{
+    display: flex;
+    flex-wrap: wrap;
+    background: linear-gradient(to bottom, #5614b0, #dbd65c);
+    justify-content: center;
+}

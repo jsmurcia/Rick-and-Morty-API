@@ -1,0 +1,19 @@
+.cont_card{
+    margin: 5px;
+    border: 1px solid #000;
+    width: 23%;
+    overflow: hidden;
+    border-radius: 13px;
+    background-color: aliceblue;
+    min-width: 280px;
+    
+}
+
+.cont_card h2{
+    margin:8px
+}
+
+.cont_card p{
+    margin-left: 18px;
+}
+
